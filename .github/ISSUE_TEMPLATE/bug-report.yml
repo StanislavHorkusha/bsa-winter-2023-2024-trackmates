@@ -1,5 +1,5 @@
-name: 🪲 Bug Report 
-description: Report a bug 
+name: 🪲 Bug Report
+description: Report a bug
 title: "🪲:"
 labels: ["bug"]
 body:
@@ -84,4 +84,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reporting this issue! 
+        Thank you for reporting this issue!
+        
